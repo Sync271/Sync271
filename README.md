@@ -28,8 +28,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sync271&label=Profile%20views&color=0e75b6&style=flat" alt="sync271" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sync271_" target="blank"><img src="https://img.shields.io/twitter/follow/sync271_?logo=twitter&style=for-the-badge" alt="sync271_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sync271_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sync271_" height="30" width="40" /></a>
@@ -39,6 +37,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sync271&show_icons=true&locale=en" alt="sync271" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sync271&theme=github-dark" alt="sync271" /></p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sync271&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
